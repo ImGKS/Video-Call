@@ -88,3 +88,8 @@ div#videos > video {
     display: block;
     margin: 1em;
 }
+
+.heading{
+    display: flex;
+    justify-content: center;
+}
